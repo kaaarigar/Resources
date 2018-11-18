@@ -15,4 +15,5 @@ for( i =0;i<len-1;i++){
 		}
 	}
 }
+//Done by Nishant
 console.log(a);
